@@ -2,7 +2,7 @@
 
 <h2 id=objective>📚Sobre o Projeto</h2>
 
-Rascunho básico para dart
+Rascunho básico com sintaxes {Dart}
 
 <h2 id=author>⭐️ Autor</h2>
 
